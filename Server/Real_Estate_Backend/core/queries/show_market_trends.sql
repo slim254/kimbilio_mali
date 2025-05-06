@@ -1,1 +1,0 @@
-select * from market_trends
